@@ -1,6 +1,3 @@
-from ast import Try
-
-
 contador = 0
 suma = 0
 while True:
